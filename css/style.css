@@ -1,0 +1,91 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+    padding:30px;
+}
+
+.container{
+    max-width:800px;
+    margin:auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+}
+
+h1,h2{
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.balance-box{
+    text-align:center;
+    margin-bottom:20px;
+}
+
+#balance{
+    color:green;
+    font-size:32px;
+}
+
+form{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    margin-bottom:20px;
+}
+
+input,select,button{
+    padding:10px;
+    flex:1;
+}
+
+button{
+    background:#007bff;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#0056b3;
+}
+
+.summary{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:20px;
+}
+
+.income{
+    color:green;
+}
+
+.expense{
+    color:red;
+}
+
+ul{
+    list-style:none;
+}
+
+li{
+    padding:10px;
+    margin:10px 0;
+    background:#eee;
+    display:flex;
+    justify-content:space-between;
+}
+
+.delete-btn{
+    background:red;
+    color:white;
+    border:none;
+    padding:5px 10px;
+    cursor:pointer;
+}
