@@ -4,7 +4,7 @@ A simple and responsive Personal Finance Tracker built using **HTML, CSS, and Ja
 
 ## 🚀 Live Demo
 
-👉 https://hasinikalvakk-lang.github.io/personal-finance-tracker/
+👉 [click here](https://hasinikalvakk-lang.github.io/personal-finance-tracker/)
 
 ## 📌 Features
 
